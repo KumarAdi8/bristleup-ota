@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/KumarAdi8/bristleup-ota/releases/download/1.5.2-1648/Bristleup-AdHoc-iPhone16-thinned.ipa</string>
+					<string>https://github.com/KumarAdi8/bristleup-ota/releases/download/1.5.2-1649/Bristleup-1.5.2-1649.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.uhunt.uhunt2</string>
 				<key>bundle-version</key>
-				<string>1648</string>
+				<string>1649</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
